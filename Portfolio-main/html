@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body> 
+  <header> 
+<h1>Morocco Thinkful</h1
+  </header>                    
+<h2>Info</h2>
+  <img src="../Images/Faceshot.jpg"/>
+  <p> My name is Morocco Hitt, I am a 30- year old professional studing to be a software engineer. I am currently located in Miami,Fl</p>
+<h2>About Me</h2>
+  <p> I enjoying working on projects that help companies showcase their software and products. I also find great value in being apart of a team that works together to get the job done. </p>
+  <p> I enjoy the outdoors and staying active as much as possible. Hiking, scuba diving and walking through nature are some activites I do in my free time.  </p>
+<h3>Contact</h3>
+  <p>You can contact me at the following places 
+    <a href="https://github.com/bizmohitt" target="\_blank">Github</a> or by e-mail
+  <a href="occorom92@gmail.com" target="_blank">Gmail</a>
+  </p>
+
+  
+  <script src="script.js"></script>
+
+
+</html>
